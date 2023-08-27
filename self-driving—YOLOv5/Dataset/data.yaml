@@ -1,0 +1,8 @@
+train: ../Dataset/train/images
+val: ../Dataset/valid/images
+test: ../Dataset/test/images
+
+nc: 19
+names: ['Person', 'ashcan', 'bicycle', 'bus', 'car', 'dog', 'fire_hydrant', 'motorbike', 'pole', 'reflective_cone', 'spherical_roadblock',
+'traffic_sign', 'tricycle', 'truck', 'warning_column', 'cat','bird','manholes', 'speedbreaker']
+
